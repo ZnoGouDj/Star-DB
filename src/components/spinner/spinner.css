@@ -1,4 +1,4 @@
-@keyframes ldio-owfobloensr {
+@keyframes ldio-m80vr0kbuxc {
     0% {
         transform: rotate(0)
     }
@@ -7,61 +7,103 @@
     }
 }
 
-.ldio-owfobloensr div {
+.ldio-m80vr0kbuxc div {
     box-sizing: border-box!important
 }
 
-.ldio-owfobloensr>div {
+.ldio-m80vr0kbuxc>div {
     position: absolute;
-    width: 144px;
-    height: 144px;
-    top: 28px;
-    left: 28px;
+    width: 140.43px;
+    height: 140.43px;
+    top: 5.285px;
+    left: 5.285px;
     border-radius: 50%;
-    border: 16px solid #000;
-    border-color: #1e834b transparent #1e834b transparent;
-    animation: ldio-owfobloensr 1s linear infinite;
+    border: 13.59px solid #000;
+    border-color: #3e00a8 transparent #3e00a8 transparent;
+    animation: ldio-m80vr0kbuxc 0.9615384615384615s linear infinite;
 }
 
-.ldio-owfobloensr>div:nth-child(2) {
+.ldio-m80vr0kbuxc>div:nth-child(2), .ldio-m80vr0kbuxc>div:nth-child(4) {
+    width: 110.23px;
+    height: 110.23px;
+    top: 20.385px;
+    left: 20.385px;
+    animation: ldio-m80vr0kbuxc 0.9615384615384615s linear infinite reverse;
+}
+
+.ldio-m80vr0kbuxc>div:nth-child(2) {
+    border-color: transparent #01946a transparent #01946a
+}
+
+.ldio-m80vr0kbuxc>div:nth-child(3) {
     border-color: transparent
 }
 
-.ldio-owfobloensr>div:nth-child(2) div {
+.ldio-m80vr0kbuxc>div:nth-child(3) div {
     position: absolute;
     width: 100%;
     height: 100%;
     transform: rotate(45deg);
 }
 
-.ldio-owfobloensr>div:nth-child(2) div:before, .ldio-owfobloensr>div:nth-child(2) div:after {
+.ldio-m80vr0kbuxc>div:nth-child(3) div:before, .ldio-m80vr0kbuxc>div:nth-child(3) div:after {
     content: "";
     display: block;
     position: absolute;
-    width: 16px;
-    height: 16px;
-    top: -16px;
-    left: 48px;
-    background: #1e834b;
+    width: 13.59px;
+    height: 13.59px;
+    top: -13.59px;
+    left: 49.83px;
+    background: #3e00a8;
     border-radius: 50%;
-    box-shadow: 0 128px 0 0 #1e834b;
+    box-shadow: 0 126.84px 0 0 #3e00a8;
 }
 
-.ldio-owfobloensr>div:nth-child(2) div:after {
-    left: -16px;
-    top: 48px;
-    box-shadow: 128px 0 0 0 #1e834b;
+.ldio-m80vr0kbuxc>div:nth-child(3) div:after {
+    left: -13.59px;
+    top: 49.83px;
+    box-shadow: 126.84px 0 0 0 #3e00a8;
 }
 
-.loadingio-spinner-dual-ring-ts6k0k1m4pd {
-    width: 200px;
-    height: 200px;
+.ldio-m80vr0kbuxc>div:nth-child(4) {
+    border-color: transparent;
+}
+
+.ldio-m80vr0kbuxc>div:nth-child(4) div {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transform: rotate(45deg);
+}
+
+.ldio-m80vr0kbuxc>div:nth-child(4) div:before, .ldio-m80vr0kbuxc>div:nth-child(4) div:after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 13.59px;
+    height: 13.59px;
+    top: -13.59px;
+    left: 34.73px;
+    background: #01946a;
+    border-radius: 50%;
+    box-shadow: 0 96.64px 0 0 #01946a;
+}
+
+.ldio-m80vr0kbuxc>div:nth-child(4) div:after {
+    left: -13.59px;
+    top: 34.73px;
+    box-shadow: 96.64px 0 0 0 #01946a;
+}
+
+.loadingio-spinner-double-ring-mk6cfrlow4m {
+    width: 150px;
+    height: 150px;
     display: inline-block;
     overflow: hidden;
     background: #303030;
 }
 
-.ldio-owfobloensr {
+.ldio-m80vr0kbuxc {
     width: 100%;
     height: 100%;
     position: relative;
@@ -71,6 +113,6 @@
     /* see note above */
 }
 
-.ldio-owfobloensr div {
+.ldio-m80vr0kbuxc div {
     box-sizing: content-box;
 }
